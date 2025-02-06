@@ -24,8 +24,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Gaming Hackathon",
-  description: "Gaming Hackathon Project",
+  title: "Media Mart store",
+  description: "Media Mart Projects",
 };
 
 export default function RootLayout({
